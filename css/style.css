@@ -1,0 +1,145 @@
+/**{
+  padding: 0;
+  margin: 0;
+  outline: 0;
+}
+ul,ol{
+  list-style: none;
+}
+a{
+  text-transform: none;
+}
+h1,h2,h3,h4,h5,h6,p,a,ul,ol,li,div,span{
+    padding: 0;
+    margin: 0;
+}
+body{
+  
+}
+*/
+/*body{
+// <uniquifier>: Use a unique and descriptive class name
+
+.open-sans-<uniquifier> {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 200 to 700
+
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}*/
+/*header{
+  background-color: #0872b9;
+  padding: 6px 0;
+}
+
+.welcome p{
+  font-size: 14px;
+  color: white;
+ font-family:Open Sans;
+}*/
+
+/*.top_icon ul{
+  float: right;
+}
+.top_icon ul li{
+  float: left;
+}
+.top_icon ul li a{
+      padding: 0 15px;
+      color: white;
+      display: block;
+} 
+.top_icon ul li a :hover{
+  color: black;
+  transition: all liner .3s;
+}
+
+/*  navbar part css end*/
+
+/*.navbar-nav .nav-item .nav-link{
+  color: #353535;
+}
+.navbar-nav .nav-item .nav-link.active{
+   color: #0872b9;
+}
+
+nav{
+  background-color: white;
+}
+
+/*  navbar part css end */
+
+                 /*banner part css start */
+
+ /*#banner{
+   background: url(../images/1.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   height: 500px;
+    }
+
+   .banner_overlay{
+     padding: 81px 0; 
+     background-color: rgba(0, 0, 0, .6);
+    }
+        */       
+   /*.banner_content{
+     text-align: right;
+     color: white;
+               }
+               .banner_content h4{
+                font-size: 33px;
+                font-family: Oswald;
+                font-weight: 500;
+                text-transform: uppercase;
+                padding-bottom: 10px;
+                padding-top: 7px;
+               }
+               .banner_content h1{
+                 font-size: 50px;
+                 font-family: Oswald;
+                 font-weight: 600;
+                 text-transform: uppercase;
+                 padding-bottom: 15px;
+                 padding-top: 7px;
+               }
+               .banner_content p{
+                font-size: 14px;
+                font-family: Open Sans ;            
+                font-weight: 300;
+                text-transform: uppercase;
+                padding-bottom: 40px;
+
+               }
+               .banner_content a{
+                padding: 10px ;
+                border: 2px solid white;
+                color: white;
+                font-family: Oswald;
+                font-weight: 500;
+                text-transform: uppercase;
+                margin-left: 20px;
+                transition: all linear .3s;            
+               }
+
+
+               .banner_content a :hover{
+               color: skyblue;
+               transition: all linear .3s;
+               border: 2px solid white;
+               }
+            
+            /*banner part css end */
+*/
+*/
